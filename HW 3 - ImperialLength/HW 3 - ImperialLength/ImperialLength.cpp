@@ -2,7 +2,7 @@
  * ImperialLength.cpp
  *
  *  Created on: Apr 10, 2015
- *      Author: dgv130030 and afb130030
+ *      Author: dgv130030 and sfb130030
  */
 
 #include "ImperialLength.h"
